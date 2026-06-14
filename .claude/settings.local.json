@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dotnet *)",
+      "Bash(winget install *)",
+      "Skill(run)",
+      "Bash(git init *)",
+      "Bash(git add *)",
+      "Bash(git commit -m 'feat: ISO 11820 建筑材料不燃性试验仿真系统 *)"
+    ]
+  }
+}
