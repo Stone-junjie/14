@@ -6,7 +6,11 @@
       "Skill(run)",
       "Bash(git init *)",
       "Bash(git add *)",
-      "Bash(git commit -m 'feat: ISO 11820 建筑材料不燃性试验仿真系统 *)"
+      "Bash(git commit -m 'feat: ISO 11820 建筑材料不燃性试验仿真系统 *)",
+      "Bash(git config *)",
+      "Bash(git remote *)",
+      "Bash(git branch *)",
+      "Bash(git push *)"
     ]
   }
 }
